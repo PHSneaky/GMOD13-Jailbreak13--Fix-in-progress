@@ -1,6 +1,8 @@
-Gmod_13_JailBreak
-=================
+Garrysmod 13 Jailbreak Gamemode
+================================
+This is my attempt to keep Jailbreak alive,
 
-An attempt to update  _NewBee's gmod jailbreak gamemode to stable gmod13 specs
+I try to fix as many errors as i can and add As much i can 
 
-Feel free to fork and make pull requests, Beware Please do not use the tab button use 5 spaces.
+
+(i forked this from thedaveef so changed made by him are his stuff, 
